@@ -15,6 +15,6 @@
 
 # Riscos Assumidos
 
-# Resultado Observado
+# Resultado Esperado
 
 # Revisão Posterior
